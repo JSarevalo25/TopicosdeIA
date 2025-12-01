@@ -1,4 +1,4 @@
-# Contiene la clase del modelo 
+## Contiene la clase del modelo para entrenarlo 
 
 ## El entrenamiento se realizo en Google Colab 
 
